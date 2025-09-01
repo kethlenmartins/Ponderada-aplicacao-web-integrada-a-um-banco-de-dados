@@ -27,4 +27,4 @@ A página web inclui formulários para cadastro de funcionários e projetos e ex
 ## 3. Vídeo de Demonstração
 Abaixo, é possível visualizar o vídeo de demonstração em que é explicado o que aconteceu durante o deploy das instâncias e o projeto funcionando em tempo real.
 
-> [Inserir link do vídeo aqui]
+> [Vídeo demonstrativo](https://youtu.be/7xNb8QKeGk4)
